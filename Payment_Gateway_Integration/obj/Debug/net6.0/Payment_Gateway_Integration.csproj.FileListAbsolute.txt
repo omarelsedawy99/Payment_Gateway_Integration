@@ -1,0 +1,14 @@
+C:\Users\omars\source\repos\Payment_Gateway_Integration\Payment_Gateway_Integration\obj\Debug\net6.0\Payment_Gateway_Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omars\source\repos\Payment_Gateway_Integration\Payment_Gateway_Integration\obj\Debug\net6.0\Payment_Gateway_Integration.AssemblyInfoInputs.cache
+C:\Users\omars\source\repos\Payment_Gateway_Integration\Payment_Gateway_Integration\obj\Debug\net6.0\Payment_Gateway_Integration.AssemblyInfo.cs
+C:\Users\omars\source\repos\Payment_Gateway_Integration\Payment_Gateway_Integration\obj\Debug\net6.0\Payment_Gateway_Integration.csproj.CoreCompileInputs.cache
+C:\Users\omars\source\repos\Payment_Gateway_Integration\Payment_Gateway_Integration\bin\Debug\net6.0\Payment_Gateway_Integration.exe
+C:\Users\omars\source\repos\Payment_Gateway_Integration\Payment_Gateway_Integration\bin\Debug\net6.0\Payment_Gateway_Integration.deps.json
+C:\Users\omars\source\repos\Payment_Gateway_Integration\Payment_Gateway_Integration\bin\Debug\net6.0\Payment_Gateway_Integration.runtimeconfig.json
+C:\Users\omars\source\repos\Payment_Gateway_Integration\Payment_Gateway_Integration\bin\Debug\net6.0\Payment_Gateway_Integration.dll
+C:\Users\omars\source\repos\Payment_Gateway_Integration\Payment_Gateway_Integration\bin\Debug\net6.0\Payment_Gateway_Integration.pdb
+C:\Users\omars\source\repos\Payment_Gateway_Integration\Payment_Gateway_Integration\obj\Debug\net6.0\Payment_Gateway_Integration.dll
+C:\Users\omars\source\repos\Payment_Gateway_Integration\Payment_Gateway_Integration\obj\Debug\net6.0\refint\Payment_Gateway_Integration.dll
+C:\Users\omars\source\repos\Payment_Gateway_Integration\Payment_Gateway_Integration\obj\Debug\net6.0\Payment_Gateway_Integration.pdb
+C:\Users\omars\source\repos\Payment_Gateway_Integration\Payment_Gateway_Integration\obj\Debug\net6.0\Payment_Gateway_Integration.genruntimeconfig.cache
+C:\Users\omars\source\repos\Payment_Gateway_Integration\Payment_Gateway_Integration\obj\Debug\net6.0\ref\Payment_Gateway_Integration.dll
